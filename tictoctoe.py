@@ -1,9 +1,4 @@
 # Created by Sanket Mote 
-# For college project - Topic - Python Gui
-# Project Name -  Tic-Toc-Toe 
-# Created game using Tkinter 
-# importing tkinter modlue 
-
 from tkinter import *
 from tkinter import messagebox
 import random as rm 
