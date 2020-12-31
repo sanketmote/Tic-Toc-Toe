@@ -6,13 +6,15 @@ This a two player tic-tac-toe game developed using Tkinter module of python.
 
 <h2>Game Information :-</h2> Tic-tac-toe or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner
 <br>
-Installation :
+
+# Installation :
+
 You can download and run this code. It supports all Python supported text editors
 
 Clone the repo. and setup python environment
 
 ```
-$ git clone https://github.com/sanketmote/COVID19-Data-Analysis-and-Visualization
+$ git clone https://github.com/sanketmote/Tic-Toc-Toe.git
 ```
 
 To run code , you need tkinter libraries to setup environment.
